@@ -1,0 +1,166 @@
+{
+    "vozaci": [
+        {
+            "ime": "Nikola",
+            "prezime": "Hranić",
+            "lozinka": "admin",
+            "markaMotora": "Husqvarna",
+            "modelMotora": "FC350",
+            "broj": "350",
+            "klasa": "MXOPEN PRO"
+        },
+        {
+            "ime": "Luka",
+            "prezime": "Kunić",
+            "lozinka": "admin",
+            "markaMotora": "Ducati",
+            "modelMotora": "Desmo450",
+            "broj": "9",
+            "klasa": "MXOPEN PRO"
+        },
+        {
+            "ime": "Tim",
+            "prezime": "Repnik",
+            "lozinka": "admin",
+            "markaMotora": "Husqvarna",
+            "modelMotora": "TC85",
+            "broj": "360",
+            "klasa": "MXOPEN PRO"
+        },
+        {
+            "ime": "Luka",
+            "prezime": "Lamot",
+            "lozinka": "admin",
+            "markaMotora": "Yamaha",
+            "modelMotora": "YZ250F",
+            "broj": "88",
+            "klasa": "MX2 PRO"
+        },
+        {
+            "ime": "Matej",
+            "prezime": "Novak",
+            "lozinka": "admin",
+            "markaMotora": "Husqvarna",
+            "modelMotora": "TC125",
+            "broj": "250",
+            "klasa": "MX2 PRO"
+        },
+        {
+            "ime": "Lovro",
+            "prezime": "Prijatelj",
+            "lozinka": "admin",
+            "markaMotora": "Yamaha",
+            "modelMotora": "YZ250F",
+            "broj": "27",
+            "klasa": "MX2 PRO"
+        },
+        {
+            "ime": "Miha",
+            "prezime": "Urbas",
+            "lozinka": "admin",
+            "markaMotora": "Honda",
+            "modelMotora": "CRF450R",
+            "broj": "53",
+            "klasa": "MXOPEN B"
+        },
+        {
+            "ime": "Željko",
+            "prezime": "Makovec",
+            "lozinka": "admin",
+            "markaMotora": "Kawasaki",
+            "modelMotora": "KX450F",
+            "broj": "2",
+            "klasa": "MXOPEN B"
+        },
+        {
+            "ime": "Bijan",
+            "prezime": "Milošić",
+            "lozinka": "admin",
+            "markaMotora": "Husqvarna",
+            "modelMotora": "FC450",
+            "broj": "126",
+            "klasa": "MXOPEN B"
+        },
+        {
+            "ime": "Marcel",
+            "prezime": "Pezdirc",
+            "lozinka": "admin",
+            "markaMotora": "Kawasaki",
+            "modelMotora": "KX250F",
+            "broj": "135",
+            "klasa": "MX2 B"
+        },
+        {
+            "ime": "Manca",
+            "prezime": "Horvat",
+            "lozinka": "admin",
+            "markaMotora": "Husqvarna",
+            "modelMotora": "FC250",
+            "broj": "539",
+            "klasa": "MX2 B"
+        },
+        {
+            "ime": "Žan",
+            "prezime": "Špec",
+            "lozinka": "admin",
+            "markaMotora": "Yamaha",
+            "modelMotora": "YZ250",
+            "broj": "209",
+            "klasa": "MX2 B"
+        },
+        {
+            "ime": "Rok",
+            "prezime": "Kostevc",
+            "lozinka": "admin",
+            "markaMotora": "KTM",
+            "modelMotora": "SX450F",
+            "broj": "167",
+            "klasa": "MXOPEN AMATER"
+        },
+        {
+            "ime": "Jernej",
+            "prezime": "Medved",
+            "lozinka": "admin",
+            "markaMotora": "Kawasaki",
+            "modelMotora": "KX450F",
+            "broj": "105",
+            "klasa": "MXOPEN AMATER"
+        },
+        {
+            "ime": "Tadej",
+            "prezime": "Škratek",
+            "lozinka": "admin",
+            "markaMotora": "GAS GAS",
+            "modelMotora": "MC450F",
+            "broj": "93",
+            "klasa": "MXOPEN AMATER"
+        },
+        {
+            "ime": "Maks",
+            "prezime": "Hočevar",
+            "lozinka": "admin",
+            "markaMotora": "KTM",
+            "modelMotora": "SX250F",
+            "broj": "179",
+            "klasa": "MX2 AMATER"
+        },
+        {
+            "ime": "Mitja",
+            "prezime": "Kodrič",
+            "lozinka": "admin",
+            "markaMotora": "Honda",
+            "modelMotora": "CRF250R",
+            "broj": "21",
+            "klasa": "MX2 AMATER"
+        },
+        {
+            "ime": "Aleš",
+            "prezime": "Drab",
+            "lozinka": "admin",
+            "markaMotora": "GAS GAS",
+            "modelMotora": "MC250F",
+            "broj": "111",
+            "klasa": "MX2 AMATER"
+        }
+    ]
+}
