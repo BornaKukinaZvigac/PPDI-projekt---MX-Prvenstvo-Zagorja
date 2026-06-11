@@ -1,0 +1,319 @@
+{
+  "rezultati": [
+    {
+      "ime": "Nikola",
+      "prezime": "Hranić",
+      "utrka": "Breznica",
+      "pozicija": 1,
+      "bodovi": 47
+    },
+    {
+      "ime": "Luka",
+      "prezime": "Kunić",
+      "utrka": "Breznica",
+      "pozicija": 2,
+      "bodovi": 47
+    },
+    {
+      "ime": "Luka",
+      "prezime": "Kunić",
+      "utrka": "Lobor",
+      "pozicija": 1,
+      "bodovi": 50
+    },
+    {
+      "ime": "Luka",
+      "prezime": "Kunić",
+      "utrka": "Bedekovčina",
+      "pozicija": 1,
+      "bodovi": 50
+    },
+    {
+      "ime": "Tim",
+      "prezime": "Repnik",
+      "utrka": "Breznica",
+      "pozicija": 5,
+      "bodovi": 33
+    },
+    {
+      "ime": "Tim",
+      "prezime": "Repnik",
+      "utrka": "Lobor",
+      "pozicija": 2,
+      "bodovi": 44
+    },
+    {
+      "ime": "Luka",
+      "prezime": "Lamot",
+      "utrka": "Breznica",
+      "pozicija": 1,
+      "bodovi": 45
+    },
+    {
+      "ime": "Luka",
+      "prezime": "Lamot",
+      "utrka": "Lobor",
+      "pozicija": 1,
+      "bodovi": 50
+    },
+    {
+      "ime": "Luka",
+      "prezime": "Lamot",
+      "utrka": "Bedekovčina",
+      "pozicija": 1,
+      "bodovi": 50
+    },
+    {
+      "ime": "Matej",
+      "prezime": "Novak",
+      "utrka": "Breznica",
+      "pozicija": 4,
+      "bodovi": 37
+    },
+    {
+      "ime": "Matej",
+      "prezime": "Novak",
+      "utrka": "Lobor",
+      "pozicija": 2,
+      "bodovi": 42
+    },
+    {
+      "ime": "Matej",
+      "prezime": "Novak",
+      "utrka": "Bedekovčina",
+      "pozicija": 2,
+      "bodovi": 44
+    },
+    {
+      "ime": "Lovro",
+      "prezime": "Prijatelj",
+      "utrka": "Breznica",
+      "pozicija": 6,
+      "bodovi": 34
+    },
+    {
+      "ime": "Lovro",
+      "prezime": "Prijatelj",
+      "utrka": "Lobor",
+      "pozicija": 3,
+      "bodovi": 42
+    },
+    {
+      "ime": "Miha",
+      "prezime": "Urbas",
+      "utrka": "Breznica",
+      "pozicija": 2,
+      "bodovi": 45
+    },
+    {
+      "ime": "Miha",
+      "prezime": "Urbas",
+      "utrka": "Lobor",
+      "pozicija": 1,
+      "bodovi": 50
+    },
+    {
+      "ime": "Željko",
+      "prezime": "Makovec",
+      "utrka": "Breznica",
+      "pozicija": 3,
+      "bodovi": 40
+    },
+    {
+      "ime": "Željko",
+      "prezime": "Makovec",
+      "utrka": "Lobor",
+      "pozicija": 2,
+      "bodovi": 44
+    },
+    {
+      "ime": "Željko",
+      "prezime": "Makovec",
+      "utrka": "Bedekovčina",
+      "pozicija": 1,
+      "bodovi": 50
+    },
+    {
+      "ime": "Bijan",
+      "prezime": "Milošič",
+      "utrka": "Breznica",
+      "pozicija": 1,
+      "bodovi": 47
+    },
+    {
+      "ime": "Bijan",
+      "prezime": "Milošič",
+      "utrka": "Lobor",
+      "pozicija": 4,
+      "bodovi": 35
+    },
+    {
+      "ime": "Marcel",
+      "prezime": "Pezdirc",
+      "utrka": "Breznica",
+      "pozicija": 1,
+      "bodovi": 47
+    },
+    {
+      "ime": "Marcel",
+      "prezime": "Pezdirc",
+      "utrka": "Lobor",
+      "pozicija": 1,
+      "bodovi": 50
+    },
+    {
+      "ime": "Manca",
+      "prezime": "Horvat",
+      "utrka": "Breznica",
+      "pozicija": 2,
+      "bodovi": 45
+    },
+    {
+      "ime": "Manca",
+      "prezime": "Horvat",
+      "utrka": "Lobor",
+      "pozicija": 2,
+      "bodovi": 44
+    },
+    {
+      "ime": "Žan",
+      "prezime": "Špec",
+      "utrka": "Breznica",
+      "pozicija": 6,
+      "bodovi": 28
+    },
+    {
+      "ime": "Žan",
+      "prezime": "Špec",
+      "utrka": "Lobor",
+      "pozicija": 3,
+      "bodovi": 40
+    },
+    {
+      "ime": "Žan",
+      "prezime": "Špec",
+      "utrka": "Bedekovčina",
+      "pozicija": 8,
+      "bodovi": 26
+    },
+    {
+      "ime": "Rok",
+      "prezime":"Kostevc",
+      "utrka": "Breznica",
+      "pozicija":2 ,
+      "bodovi": 47
+    },
+    {
+      "ime": "Rok",
+      "prezime": "Kostevc",
+      "utrka": "Lobor",
+      "pozicija": 1,
+      "bodovi": 47
+    },
+    {
+      "ime": "Rok",
+      "prezime": "Kostevc",
+      "utrka": "Bedekovčina",
+      "pozicija": 2,
+      "bodovi": 39
+    },
+    {
+      "ime": "Jernej",
+      "prezime": "Medved",
+      "utrka": "Breznica",
+      "pozicija":1 ,
+      "bodovi":47 
+    },
+    {
+      "ime": "Jernej",
+      "prezime": "Medved",
+      "utrka": "Lobor",
+      "pozicija": 3,
+      "bodovi": 42
+    },
+    {
+      "ime": "Tadej",
+      "prezime": "Škratek",
+      "utrka": "Breznica",
+      "pozicija":4 ,
+      "bodovi": 36
+    },
+    {
+      "ime": "Tadej",
+      "prezime": "Škratek",
+      "utrka": "Lobor",
+      "pozicija": 5,
+      "bodovi": 34
+    },
+    {
+      "ime": "Tadej",
+      "prezime": "Škratek",
+      "utrka": "Bedekovčina",
+      "pozicija": 1,
+      "bodovi": 47
+    },
+    {
+      "ime": "Maks",
+      "prezime": "Hočevar",
+      "utrka": "Breznica",
+      "pozicija": 1,
+      "bodovi": 50
+    },
+    {
+      "ime": "Maks",
+      "prezime": "Hočevar",
+      "utrka": "Lobor",
+      "pozicija": 2,
+      "bodovi": 47
+    },
+    {
+      "ime": "Maks",
+      "prezime": "Hočevar",
+      "utrka": "Bedekovčina",
+      "pozicija": 2,
+      "bodovi": 42
+    },
+    {
+      "ime": "Mitja",
+      "prezime": "Kodrič",
+      "utrka": "Breznica",
+      "pozicija": 3,
+      "bodovi": 40
+    },
+    {
+      "ime": "Mitja",
+      "prezime": "Kodrič",
+      "utrka": "Lobor",
+      "pozicija": 1,
+      "bodovi": 47
+    },
+    {
+      "ime": "Mitja",
+      "prezime": "Kodrič",
+      "utrka": "Bedekovčina",
+      "pozicija": 1,
+      "bodovi": 50
+    },
+    {
+      "ime": "Aleš",
+      "prezime": "Drab",
+      "utrka": "Breznica",
+      "pozicija": 5,
+      "bodovi": 31
+    },
+    {
+      "ime": "Aleš",
+      "prezime": "Drab",
+      "utrka": "Lobor",
+      "pozicija": 3,
+      "bodovi": 38
+    },
+    {
+      "ime": "Aleš",
+      "prezime": "Drab",
+      "utrka": "Bedekovčina",
+      "pozicija": 6,
+      "bodovi": 32
+    }
+  ]
+}
